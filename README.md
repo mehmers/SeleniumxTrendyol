@@ -1,6 +1,6 @@
 # SeleniumxTrendyol
 Selenium project for Trendyol<br />
-To run this code, you should import files that are in "/src" and "/lib" folder to CLASSPATH.
+To run this code, you should import files that are in "/src" and "/src/lib" folder to CLASSPATH.
 
 Features : <br />
 Check if trendyol is accessible.<br />
