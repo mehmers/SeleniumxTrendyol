@@ -1,5 +1,5 @@
 # SeleniumxTrendyol
-Selenium project for Trendyol
+Selenium project for Trendyol<br />
 To run this code, you should import files that are in "/src" folder to CLASSPATH.
 
 Features : <br />
